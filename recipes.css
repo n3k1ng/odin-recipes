@@ -4,12 +4,13 @@
 }
 
 body {
+    background-color: aliceblue;
     display: flex;
     justify-content: center;
 }
 
 .card {
-    background-color: antiquewhite;
+    background-color: cornsilk;
     width: 640px;
     display: flex;
     flex-direction: column;
@@ -28,6 +29,7 @@ body {
     border: 2px solid black;
     font-family: 'Courier New', Courier, monospace;
     padding: 5px 10px;
+    text-wrap: balance;
 }
 
 .card img {
