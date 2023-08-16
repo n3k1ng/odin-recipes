@@ -27,6 +27,7 @@ body {
     text-align: center;
     border: 2px solid black;
     font-family: 'Courier New', Courier, monospace;
+    padding: 5px 10px;
 }
 
 .card img {
@@ -44,6 +45,6 @@ body {
     margin-top: 24px;
 }
 
-.content a {
-    margin-top: 24px;
+a {
+    margin-top: 12px;
 }
