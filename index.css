@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;900&display=swap');
 
 * {
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -38,7 +37,7 @@ header img {
 
 .recipes {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 60px;
     font-size: 18px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-transform: capitalize;
@@ -50,9 +49,9 @@ header img {
 
 .content {
     background-color: cornsilk;
-    width: 840px;
-    margin: 32px;
-    padding: 32px;
+    width: 640px;
+    margin: 32px 0;
+    padding: 60px;
     border: 2px solid black;
     flex: 1;
 }
